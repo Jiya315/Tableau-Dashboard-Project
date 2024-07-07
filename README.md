@@ -14,8 +14,3 @@ The dashboard includes visualizations on crop production by state, district, cro
 - Sheet3.png : Area vs. Production Analysis by Crop
 - Sheet4.png : Top Producing Crops
 - Sheet5.png : Regional Comparison of Production, Area, and Yield
-
-
-## Insights
-
-- Highlight key findings and insights from your dashboard.
